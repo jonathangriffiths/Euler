@@ -20,3 +20,4 @@ def is_monday(days_passed):
         return False
 
 #In the 20th century (1901 - 2000) how many sundays fell on the first of a month?
+#don't like this...
